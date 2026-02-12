@@ -1,0 +1,113 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+ 
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.container{
+  padding:50px;
+}
+.Section-one{
+  background-color:black;
+  color:white;
+  padding:20px;
+}
+.Section-one__name{
+  font-size:60px;
+}
+.Section-one__role{
+  font-size:30px;
+}
+.Section-one__contact{
+  padding:10px;
+  background-color:red;
+  color:white;
+  margin-top:10px;
+  border:none;
+  border:2px yellow solid;
+  border-radius: 10px;
+  font-weight: bold;
+}
+.Section-two{
+  padding-top:10px;
+}
+.Section-three{
+  background-color:#6462FD;
+  display: inline-block;
+  padding:20px;
+  border-radius:10px;
+  height:200px;
+  vertical-align: top;
+  margin-top: 20px;
+  margin-bottom:20px;
+}
+.Section-three__types{
+  list-style-type:none;
+}
+
+.Section-four{
+  display:inline-block;
+  background-color:#FE7517;
+  padding:20px;
+  border-radius:10px;
+  margin-top: 20px;
+  margin-bottom:20px;
+  height:200px;
+}
+.Section-four__types{
+  list-style-type:none;
+}
+.Section-five{
+  background-color:black;
+  padding:20px;
+  color:white;
+}
+
+.Section-five__media a{
+  color:red;
+}
+
+.Section-two__description,.Section-three__types,.Section-four__types{
+  margin-top:10px;
+}
+.Section-one__Home{
+  padding:10px;
+  background-color:red;
+  color:white;
+  margin-top:10px;
+  border:none;
+  border:2px yellow solid;
+  border-radius: 10px;
+  font-weight: bold;
+}
+.Section-Contactform{
+  margin-top:20px;
+  margin-bottom:20px;
+}
+.Section-Contactform__input{
+  padding:10px;
+  border:none;
+  border-bottom: 2px solid black;
+}
+.Section-Contactform__input,.Section-Contactform__textarea,.Section-Contactform__submit{
+  margin-top:10px;
+}
+.Section-Contactform__textarea{
+  padding:10px;
+  border:none;
+  border: 2px solid black;
+}
+.Section-Contactform__submit{
+  padding:10px;
+  background-color:red;
+  color:white;
+  margin-top:10px;
+  border:none;
+  border:2px black solid;
+  border-radius: 10px;
+  font-weight: bold;
+}
