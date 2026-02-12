@@ -4,7 +4,7 @@ This repository contains my first personal portfolio website, created using HTML
 
 # How to View
 
-You can check out the live website here: 
+You can check out the live website here:https://rohithkrishnajs19.github.io/Portfolio-website/index.html 
 
 Thank you for visiting my portfolio website.
      
